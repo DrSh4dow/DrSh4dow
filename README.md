@@ -26,9 +26,9 @@ I'm Daniel, a 25 years old full-stack developer passionate about Open-Source and
 ### Skills 📚
 - TypeScript/JavaScript => NextJS, React, Svelte, Express.js
 - C++/Qt 
+- Linux => Ansible, WireGuard, Dovecot, Docker, Kubernetes
 - Rust => Actix, Bevy
 - Go
-- Linux => Ansible, WireGuard, Dovecot, Docker, Kubernetes
 - SQL/NoSQL
 - Git/GitHub
 - Web Application Security Testing
