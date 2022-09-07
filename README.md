@@ -1,16 +1,40 @@
-### Hi there 👋
+```
+                        __________
+                      .~#########%%;~.
+                     /############%%;`\
+                    /######/~\/~\%%;,;,\
+                   |#######\    /;;;;.,.|
+                   |#########\/%;;;;;.,.|
+                   |##/~~\####%;;;/~~\;,|   
+                   |#|  o  \##%;/  o  |.|      
+                   |##\____/##%;\____/.,|     
+                   \#########/\;;;;;;,, /     
+                     \######/%;\;;;;, /     
+                      |######%%;;;;,.|     
+                      |# # # % ; ; ;,|  
 
-<!--
-**DrSh4dow/DrSh4dow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  __ \                   |      |  |        |                  
+  |   |   __|       __|  __ \   |  |     _` |   _ \ \ \  \   / 
+  |   |  |        \__ \  | | | ___ __|  (   |  (   | \ \  \ /  
+ ____/  _| _)     ____/ _| |_|    _|   \__,_| \___/   \_/\_/   
+                                                               
+```
 
-Here are some ideas to get you started:
+### Hey there 👋
+I'm Daniel, a 25 years old full-stack developer passionate about Open-Source and Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills 📚
+- TypeScript/JavaScript => NextJS, React, Svelte, Express.js
+- C++/Qt 
+- Rust => Actix, Bevy
+- Go
+- Linux => Ansible, WireGuard, Dovecot, Docker, Kubernetes
+- SQL/NoSQL
+- Git/GitHub
+- Web Application Security Testing
+
+### Contact
+- daniel.morettiv@gmail.com
+- drsh4dow@protonmail.com
+- Dr.Sh4dow#4040 on Discord
+
