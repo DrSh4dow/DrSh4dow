@@ -29,6 +29,7 @@ I'm Daniel, a 25 years old full-stack developer passionate about Open-Source and
 - Linux => Ansible, WireGuard, Dovecot, Docker, Kubernetes
 - Rust => Actix, Bevy
 - Go
+- Python
 - SQL/NoSQL
 - Git/GitHub
 - Web Application Security Testing
