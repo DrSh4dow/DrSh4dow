@@ -33,7 +33,7 @@ I'm Daniel, a 25 years old full-stack developer passionate about Open-Source and
 - Git/GitHub
 - Web Application Security Testing
 
-### Contact
+### Contact 📑
 - daniel.morettiv@gmail.com
 - drsh4dow@protonmail.com
 - Dr.Sh4dow#4040 on Discord
