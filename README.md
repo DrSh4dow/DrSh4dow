@@ -38,4 +38,5 @@ I'm Daniel, a 25 years old full-stack developer passionate about Open-Source, Li
 - daniel.morettiv@gmail.com
 - drsh4dow@protonmail.com
 - Dr.Sh4dow#4040 on Discord
+- [LinkedIn](https://www.linkedin.com/in/dmorettiv)
 
