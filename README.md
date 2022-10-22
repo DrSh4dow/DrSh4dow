@@ -21,7 +21,7 @@
 ```
 
 ### Hi there 👋
-I'm Daniel, a 25 years old full-stack developer passionate about Open-Source, Linux and Music 🎜.
+I'm Daniel, a full-stack developer passionate about Open-Source, Linux and Music 🎜.
 
 ### Skills 📚
 - TypeScript/JavaScript => NextJS, React, Svelte, Express.js
