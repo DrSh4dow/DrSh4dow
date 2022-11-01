@@ -21,10 +21,10 @@
 ```
 
 ### Hi there 👋
-I'm Daniel, a full-stack developer passionate about Open-Source, Linux and Music 🎜.
+I'm Daniel, a Full-Stack Software Developer passionate about Open-Source, Linux and Music ♫. I believe that through the creation of apps, we deliver experiences that empower users to change how they interact with their lives, so by the same principle, I want to deliver the bests experiences I can give.
 
 ### Skills 📚
-- TypeScript/JavaScript => NextJS, React, Svelte, Express.js
+- TypeScript/JavaScript => SvelteKit, NextJS, React, Svelte, Express.js
 - C++/Qt 
 - Linux => Ansible, WireGuard, Dovecot, Docker, Kubernetes
 - Rust => Actix, Bevy
@@ -39,4 +39,5 @@ I'm Daniel, a full-stack developer passionate about Open-Source, Linux and Music
 - drsh4dow@protonmail.com
 - [LinkedIn](https://www.linkedin.com/in/dmorettiv)
 - Dr.Sh4dow#4040 on Discord
+- [Portfolio](https://danielmoretti.com)
 
