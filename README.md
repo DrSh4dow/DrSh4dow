@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/DrSh4dow/Drsh4dow/blob/main/banner.png?raw=true)](https://danielmoretti.com/)
-<h1 align="center">Hi 👋, I'm Daniel Moretti</h1>
+<h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A Full-Stack Software Developer passionate about Open-Source, Linux and Music ♫.</h3>
 
 # 💫 About Me:
