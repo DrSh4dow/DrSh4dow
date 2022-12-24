@@ -20,10 +20,10 @@
                                                                
 ```
 
-### Hi there 👋
-I'm Daniel, a Full-Stack Software Developer passionate about Open-Source, Linux and Music ♫. I believe that through the creation of apps, we deliver experiences that empower users to change how they interact with their lives, so by the same principle, I want to deliver the bests experiences I can give.
+<h1 align="center">Hi 👋, I'm Daniel</h1> 
+a Full-Stack Software Developer passionate about Open-Source, Linux and Music ♫.
 
-### Skills 📚
+### Skills 📚 
 - TypeScript/JavaScript => SvelteKit, NextJS, React, Svelte, Express.js
 - C++/Qt 
 - Linux => Ansible, WireGuard, Dovecot, Docker, Kubernetes
