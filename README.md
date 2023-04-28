@@ -3,7 +3,7 @@
 <h3 align="center">A Full-Stack Software Developer passionate about Open-Source, Linux and Music ♫.</h3>
 
 # 💫 About Me:
-🔭 Self Taught Developer but currently working on getting a CS Degree<br>👯 I’m open to collaborate on Linux Projects<br>🌱 I’m currently learning ConvNets<br>:computer: Code editor: Neovim<br>:hand_over_mouth: My guilty pleasure: Gruvbox
+🔭 Self Taught Developer but currently working on getting a CS Degree<br>👯 I’m open to collaborate on Linux Projects<br>🌱 I’m currently learning ConvNets and Computer Vision<br>:computer: Code editor: Neovim<br>:hand_over_mouth: My guilty pleasure: Gruvbox
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dmorettiv) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/drsh4d0w) 
 
