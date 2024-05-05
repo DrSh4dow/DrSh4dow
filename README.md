@@ -12,6 +12,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-flax-sigma.vercel.app/api?username=drsh4dow&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=drsh4dow&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=DrSh4dow&langs_count=6&layout=compact&theme=gruvbox&hide_border=false&count_private=true&hide=JavaScript,Shell,Svelte,CSS,QML,Java,HTML,c%2B%2B,Ren%27Py)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
