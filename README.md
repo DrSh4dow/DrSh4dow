@@ -2,7 +2,7 @@
 <h3 align="center">Just some guy passionate about Code, Linux and Music ♫.</h3>
 
 # 💫 About Me:
-🔭 Self Taught Developer but currently working on getting a CS Degree<br>👯 I’m open to collaborate on fun projects<br>:computer: Code editor: Neovim<br>:hand_over_mouth: My guilty pleasure: Gruvbox
+👯 I’m open to collaborate on fun projects<br>:computer: Code editor: Neovim<br>:hand_over_mouth: My guilty pleasure: Gruvbox
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dmorettiv) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/drsh4d0w) 
 
